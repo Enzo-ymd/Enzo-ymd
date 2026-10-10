@@ -17,8 +17,9 @@
 
 ## 🧠 My Focus Areas
 - Web Development
-- cyber Security
-- Digital Forensics
+- Mobile App (on going)
+- Cyber Security (on going)
+- Digital Forensics (on going)
 
 
 ## 📊 GitHub Stats & Trophies
